@@ -1,0 +1,1 @@
+# firefox-pdf-rip
